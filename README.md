@@ -26,7 +26,6 @@ pip install torch torchvision pillow kagglehub matplotlib scikit-learn
 ### 2. Download CASIA 2.0 dataset
 The notebook automatically fetches the dataset via [KaggleHub](https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset).  
 
-Alternatively, you can download it from the [CASIA Image Tampering Detection Evaluation Database (official site)](https://forensics.idealtest.org/).
 
 ---
 
@@ -56,7 +55,6 @@ Alternatively, you can download it from the [CASIA Image Tampering Detection Eva
 ---
 
 ## 📚 Dataset Sources
-- [CASIA Image Tampering Detection Evaluation Database (official site)](https://forensics.idealtest.org/)  
 - [CASIA 2.0 on Kaggle](https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset)  
 
 ⚠️ **Note:** The dataset itself is not included in this repository due to licensing restrictions. Please download it from one of the sources above.
